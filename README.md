@@ -1,5 +1,5 @@
 # Research-Work---Facial-Demographics
-Our work on facial demographics (https://github.com/ShreyanshJoshi/Facial-Demographics-using-CNN) was extended for another 4 weeks, wherein me and my teammate worked on a research paper. The paper has currently been submitted to CVIP 2020.
+Our work on facial demographics (https://github.com/ShreyanshJoshi/Facial-Demographics-using-CNN) was extended for another 4 weeks, wherein me and my teammate worked on a research paper. The paper has been accepted in CVIP 2020 and would soon get published by Springer CCIS (Communications in Computer and Information Science series).
 
 ## Credits
 
