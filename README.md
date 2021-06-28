@@ -3,6 +3,12 @@ Our work on [facial demographics](https://github.com/ShreyanshJoshi/Facial-Demog
 
 Publication: [Age and Gender Prediction using Deep CNNs and Transfer Learning](https://link.springer.com/chapter/10.1007%2F978-981-16-1092-9_25)
 
+## Dataset
+
+[UTKFace](https://susanqq.github.io/UTKFace/) - dataset is a large-scale face dataset with long age span (range from 0 to 116 years old). The dataset consists of over 20,000 face images with annotations of age, gender, and ethnicity. The images cover large variation in pose, facial expression, illumination, occlusion, resolution, etc. This dataset could be used on a variety of tasks, e.g., face detection, age estimation, age progression/regression, landmark localization, etc. 
+
+<a href="http://aicip.eecs.utk.edu/wiki/UTKFace"> <img border="0" alt="​Sample Images" src="https://i.imgur.com/WKQOeff.png" width="100%"> </a>
+
 ## Other References:
 
 #### Research Papers 
@@ -19,6 +25,3 @@ Publication: [Age and Gender Prediction using Deep CNNs and Transfer Learning](h
 * [ON THE CONVERGENCE OF ADAM AND BEYOND](https://openreview.net/pdf?id=ryQu7f-RZ)
 * [Rapid object detection using a boosted cascade of simple features](https://ieeexplore.ieee.org/document/990517)
 
-#### Dataset
-
-* [UTKFace](http://aicip.eecs.utk.edu/wiki/UTKFace)
